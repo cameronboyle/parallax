@@ -88,6 +88,7 @@ input[type=checkbox]:checked + label:before {
   opacity: 0.2;
 }
 
+/*
 .layer:nth-child(1) {
   opacity: 1;
 }
@@ -103,7 +104,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .layer:nth-child(3) {
-  opacity: 0.45;
+  opacity: 0.1;
 }
 .layer:nth-child(3) button {
   -webkit-transform: rotate(90deg);
@@ -128,3 +129,4 @@ input[type=checkbox]:checked + label:before {
 }
 .layer:nth-child(6) button {
 }
+*/
